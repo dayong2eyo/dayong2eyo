@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/dayong2eyo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 -  새로운 사용자 경험을 만들어내는것을 추구합니다.
+<br/>
 -  UI/UX에 관심이 많은 웹 프론트엔드 엔지니어입니다.
 
 
